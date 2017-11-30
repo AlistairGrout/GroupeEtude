@@ -34,3 +34,6 @@ Forum/WebApplication1/.vs/WebApplication1/v15/Server/sqlite3/storage.ide
 Forum/WebApplication1/.vs/config/applicationhost.config
 Forum/WebApplication1/WebApplication1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 Forum/WebApplication1/WebApplication1/obj/Debug/WebApplication1.csproj.CoreCompileInputs.cache
+Forum/WebApplication1/.vs/config/applicationhost.config
+*.config
+*.cache
