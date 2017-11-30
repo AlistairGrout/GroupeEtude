@@ -15,7 +15,11 @@ namespace WebApplication1.Controllers
 
         public ActionResult About()
         {
+<<<<<<< HEAD
             ViewBag.Message = "Test";
+=======
+            ViewBag.Message = "Nouvelle application description !";
+>>>>>>> 95aeb3e71dd013b4b301e18e7905a6fbd554fef6
 
             return View();
         }
