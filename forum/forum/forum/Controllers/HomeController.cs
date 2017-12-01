@@ -15,7 +15,7 @@ namespace forum.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Walfhand beeest of the beeeeeest lalala !";
+            ViewBag.Message = "Peppone beeest of the beeeeeest popponisator (je ne suis pas sur que ça s'ecrit comme ça ;)) !";
 
             return View();
         }
