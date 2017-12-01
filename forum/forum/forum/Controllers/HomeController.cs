@@ -15,7 +15,7 @@ namespace forum.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Walfhand beeest of the beeeeeest lalala !";
 
             return View();
         }
