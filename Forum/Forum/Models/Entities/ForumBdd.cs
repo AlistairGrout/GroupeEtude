@@ -16,8 +16,8 @@ namespace Forum.Models
 
         public DbSet<Role> Roles { get; set; }
         public DbSet<Post> Posts { get; set; }
-
         public DbSet<Category> Categories { get; set; }
-
+        public DbSet<Response> Responses { get; set; }
+        public DbSet<LikeResponse> LikesResponses { get; set; }
     }
 }

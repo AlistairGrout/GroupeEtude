@@ -169,3 +169,7 @@ C:\Users\Giuseppe-desktop\Documents\GitHub\GroupeEtude\Forum\Forum\obj\Debug\For
 C:\Users\Giuseppe-desktop\Documents\GitHub\GroupeEtude\Forum\Forum\obj\Debug\Forum.csproj.CoreCompileInputs.cache
 C:\Users\Giuseppe-desktop\Documents\GitHub\GroupeEtude\Forum\Forum\obj\Debug\Forum.dll
 C:\Users\Giuseppe-desktop\Documents\GitHub\GroupeEtude\Forum\Forum\obj\Debug\Forum.pdb
+D:\Documents\GitHub\GroupeEtude\Forum\Forum\bin\EntityFramework.dll
+D:\Documents\GitHub\GroupeEtude\Forum\Forum\bin\EntityFramework.SqlServer.dll
+D:\Documents\GitHub\GroupeEtude\Forum\Forum\bin\EntityFramework.xml
+D:\Documents\GitHub\GroupeEtude\Forum\Forum\bin\EntityFramework.SqlServer.xml
