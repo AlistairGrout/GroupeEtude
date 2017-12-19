@@ -371,3 +371,7 @@ Forum/WebApplication1/.vs/WebApplication1/v15/.suo
 Forum/.vs/config/applicationhost.config
 Forum/.vs/config/applicationhost.config
 Forum/.vs/config/applicationhost.config
+Forum/.vs/Forum/v15/.suo
+Forum/.vs/Forum/v15/.suo
+Forum/Forum/Forum.csproj
+Forum/Forum/Models/ForumBdd.cs
