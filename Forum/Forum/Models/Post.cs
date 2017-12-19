@@ -13,7 +13,7 @@ namespace Forum.Models
         public string Title { get; set; }
         public string Body { get; set; }
         public User Author { get; set; }
-        public Categorie Categorie { get; set; }
+        public Category Categorie { get; set; }
         public DateTime Date { get; set; }
     }
 }

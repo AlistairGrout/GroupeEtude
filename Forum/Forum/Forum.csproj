@@ -161,11 +161,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\ForumBdd.cs" />
-<<<<<<< HEAD
     <Compile Include="Models\Post.cs" />
-=======
     <Compile Include="Models\Category.cs" />
->>>>>>> d75f77cc82726f55e10d9d4fe6cb674f1c8fa85d
     <Compile Include="Models\Role.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
