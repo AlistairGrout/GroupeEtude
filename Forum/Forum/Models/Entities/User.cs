@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -29,6 +30,8 @@ namespace Forum.Models
         [MaxLength(70)]
         [DataType(DataType.Url)]
         public string Website { get; set; }
+        [ForeignKey("Role")]
+        public int RoleID { get; set; }
         public Role Role { get; set; }
 
     }

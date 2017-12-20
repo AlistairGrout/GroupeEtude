@@ -14,7 +14,7 @@ namespace Forum.Models.Utils
             {
                 if(instance == null)
                 {
-                    return new Util();
+                    instance = new Util();
                 }
                 return instance;
             }

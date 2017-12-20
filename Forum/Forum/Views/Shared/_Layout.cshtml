@@ -13,8 +13,15 @@
     <ul>
         <li>@Html.ActionLink("Accueil", "Index", "Home", new { area = "" }, null)</li>
         <li>@Html.ActionLink("Nom de l'application", "Index", "Home", new { area = "" })</li>
-    </ul>
 
+        @if (User.IsInRole("Admin"))
+        {
+            <li>@Html.ActionLink("Admin", "Index", "Admin", new { area = "" }, null)</li>
+        }
+
+        @Html.Partial("_LoginPartial")
+    </ul>
+    
 
     <div>
         @RenderBody()
