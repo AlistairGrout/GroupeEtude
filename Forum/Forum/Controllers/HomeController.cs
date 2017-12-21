@@ -12,7 +12,6 @@ namespace Forum.Controllers
         
         public ActionResult Index()
         {
-            Util.Instance.GenerateDB();
             return View();
         }
     }
